@@ -1,4 +1,4 @@
-# Deploy Google microservices-demo to Google Managed Kubernetes
+# Deploy Google microservices-demo to GKE
 
 1. Provisioning infrastracture with Terraform
 
